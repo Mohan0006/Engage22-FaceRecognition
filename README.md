@@ -35,4 +35,4 @@ Tom Curise
 
 I had uploaded the webpage "ScreenShots" in the ScreenShots folder in repository. In the "Testing Pictures" Folder You can see some pictures used for testing the webapp.
 
-# On adding /admin to home page url you will be redirected to admin login portal and after entering the credintials mentioned in acehacker form you will be redirected to the admin portal.
+On adding /admin to home page url you will be redirected to admin login portal and after entering the credintials mentioned in acehacker form you will be redirected to the admin portal.
