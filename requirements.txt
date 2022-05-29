@@ -1,0 +1,9 @@
+Django
+numpy
+opencv-python-headless
+Pillow
+scikit-learn==0.24.1
+scipy
+sklearn
+gunicorn
+whitenoise
