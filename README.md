@@ -1,1 +1,1 @@
-change the branch to master
+checkout the branch master!
